@@ -1,2 +1,3 @@
-# Neural-network-models-for-Fashion-MNIST
-Trained two neural network models on the Fashion MNIST dataset, comparing the effects of regularization and dropout on network weights.
+# Neural network models for Fashion MNIST datset
+
+Trained two neural network models on the Fashion MNIST dataset, comparing the effects of regularization and dropout on network weights. First model consists of one hidden layer with ReLU activation, 128 nodes, no regularization and no dropout. Second models consists of one hidden layer with ReLU activation, 48 nodes, L2 regularization with coefficient λ = 0.0001 and dropout with rate 0.2 at the hidden layer.
